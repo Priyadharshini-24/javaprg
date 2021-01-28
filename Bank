@@ -1,0 +1,47 @@
+public abstract class Bank
+{
+abstract int interest ();
+void name()
+{
+System.out.println("Bank interest details");
+}
+}
+class SBI extends Bank
+{
+int interest ()
+{
+return 3;
+}
+}
+class CUB extends Bank
+{
+int interest ()
+{
+return 2;
+}
+}
+class BOI extends Bank
+{
+int interest ()
+{
+return 5;
+}
+}
+public class Bankmain
+{
+public static void main (String [] args)
+{
+Bank b= new CUB();
+Bank b1=new SBI();
+Bank b2=new BOI();
+b.name();
+b.interest();
+System.out.println("SBI BANK interest..."+b1.interest());
+System.out.println("CUB BANK interest..."+b.interest());
+System.out.println("BOI BANK interest..."+b2.interest());
+}
+Output:
+BANK interest details
+SBI BANK interest...3
+CUB BANK interest...2
+BOI BANK interest...5
