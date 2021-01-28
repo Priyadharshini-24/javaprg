@@ -26,3 +26,9 @@ public class Mix {
 	}
 
 }
+
+output:
+    Enter the String
+     priya
+     String length is:5
+     Reverse String is:ayirp	     
