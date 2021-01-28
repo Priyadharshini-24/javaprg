@@ -18,3 +18,12 @@ public class Methodoverride {
 
 	
 }
+Public class Movermain
+{
+Public static void main (String []args)
+{
+Methodoverride m=new Method();
+m.compile();
+m.run();
+}
+}
