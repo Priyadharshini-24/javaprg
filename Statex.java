@@ -13,7 +13,7 @@ public class Statex {
 	{
 		System.out.println("emp id:"+idno);
 		System.out.println("emp name:"+name);
-		System.out.println("campany name:"+cmpname);
+		System.out.println("company name:"+cmpname);
 		
 	}
 
@@ -25,3 +25,11 @@ public class Statex {
  }
 
 }
+
+output:
+emp id:202014
+emp name:preetha
+company name:TCS
+emp id:202015
+emp name:sheela
+company name:TCS
