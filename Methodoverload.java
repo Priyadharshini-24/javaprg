@@ -30,4 +30,13 @@ public class Methodoverload {
 		m.math(442);
 
 	}
-}
+        }
+       
+       output:
+         method overloading example
+	 add two numbers
+	 175
+	 add three numbers
+	 267
+	 Total
+	 442
