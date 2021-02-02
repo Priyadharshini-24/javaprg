@@ -17,3 +17,9 @@ public class Revstring {
 	}
 
 }
+
+
+output:
+Enter a String:
+Priya Dharshini
+Reverse String is:inihsrahD ayirP
