@@ -1,6 +1,6 @@
 package string;
 import java.util.Scanner;
-public class Mix {
+public class Stringlengrev {
 
 	public static void main(String[] args)throws Exception
 	{
