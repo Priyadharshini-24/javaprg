@@ -40,6 +40,7 @@ System.out.println("SBI BANK interest..."+b1.interest());
 System.out.println("CUB BANK interest..."+b.interest());
 System.out.println("BOI BANK interest..."+b2.interest());
 }
+
 Output:
 BANK interest details
 SBI BANK interest...3
